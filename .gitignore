@@ -1,0 +1,8 @@
+
+installtest/.vs/*
+installtest/bin/*
+installtest/obj/*
+.vs/*
+packages/*
+installtest/Releases/*
+installtest/Publish/*
