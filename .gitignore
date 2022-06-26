@@ -5,4 +5,3 @@ installtest/obj/*
 .vs/*
 packages/*
 installtest/Releases/*
-installtest/Publish/*
